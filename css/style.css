@@ -6,6 +6,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: chocolate;
+}
+
+.fizz-buzz {
+    background-color: #103f16;
+}
+
+.fizz {
+  background-color:#8711a5;
+}
+
+.buzz {
+   background-color: rgb(10, 141, 65);
+}
+
+.numbers {
+  background-color:#113974;
 }
 
