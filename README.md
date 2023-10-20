@@ -20,11 +20,12 @@
 
 ---
 ### **Raccolta dei dati**
-- Stampare nella console i numeri compresi tra 1 e 100.
+- Creo un ciclo FOR per stampare i numeri da 1 a 100
+
 
 ---
 ### Logica del programma
-- Creo un ciclo FOR per stampare i numeri da 1 a 100
+- Stampare nella console i numeri compresi tra 1 e 100.
 - Al interno del ciclo FOR creo un IF con condizione 
 SE (numero % 3 = 0) {
     stampo il messaggio "Fizz"
