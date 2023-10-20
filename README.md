@@ -27,12 +27,12 @@
 ### Logica del programma
 - Stampare nella console i numeri compresi tra 1 e 100.
 - Al interno del ciclo FOR creo un IF con condizione 
-SE (numero % 3 = 0) {
-    stampo il messaggio "Fizz"
-} altrimenti se (numero % 5 = 0 ){
-    stampo il messaggio "Buzz"
-} altrimenti se (numero % 3 = 0 && numero % 5 = 0) {
+SE (numero % 3 = 0 && numero % 5 = 0) {
     stampo il messaggio "FizzBuzz"
+} altrimenti se (numero % 3 = 0 ){
+    stampo il messaggio "Fizz"
+} altrimenti se (numero % 5 = 0) {
+    stampo il messaggio "Buzz"
 }
 
 ---
